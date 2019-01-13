@@ -1,0 +1,7 @@
+﻿  main.cpp
+  server.cpp
+  session.cpp
+d:\googledrive\xigncode3-bypass-real\xigncode3-bypass-real\xigncode host\session.cpp(70): warning C4101: 'exception_string': unreferenced local variable
+  XignCode.cpp
+  Generating Code...
+  XignCode Host.vcxproj -> D:\GoogleDrive\XignCode3-bypass-real\XignCode3-bypass-real\Debug\XignCode Host.exe
